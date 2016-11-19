@@ -1,0 +1,15 @@
+.background{
+    width: 100%;
+    height:auto;
+    border: solid 0;
+    margin-top: 0;
+    background: linear-gradient(to right,#252525 ,#c9cccf 110%)
+}
+.h1{
+    font-size: 2.5em;
+    color:#93a1a1;
+    font-family: "URW Palladio L";
+}
+
+/*#1E90FF,#ADD8E6*/
+/*#99FFFF 0%,#FFFFCC 120%*/
